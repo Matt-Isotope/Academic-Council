@@ -1,14 +1,21 @@
 # Changelog
 
+## v0.5
+- Improved repository documentation and installation guidance.
+- Clarified the purpose of the skill, its limitations, and the difference between a structured review aid and real peer review.
+- Added contribution guidance and a more polished project structure description.
+- Kept the underlying skill prompt (`SKILL.md`) unchanged, as requested.
+
 ## v0.4
-- Renamed the skill from `consiglio-accademico` to `academic-council` (frontmatter name, package file, repository references). Removed the leftover Italian trigger phrases from the description; the skill still replies in whatever language the user writes in (Ground rule 8), only its identifiers and packaging are now English.
+- Renamed the skill from `consiglio-accademico` to `academic-council` (frontmatter name, packaged file, and repository references).
+- Removed leftover Italian trigger phrases from the description while preserving multilingual response behavior.
 
 ## v0.3
 - Added subagent execution mode: in Claude Code (or any environment that can launch subagents), the six figures run as genuinely independent subagents instead of a single-pass write-up.
-- Added Ground rule 9 on real independence, and a new "Execution mode" section describing detection, subagent handoff, and the single-pass fallback.
+- Added Ground rule 9 on real independence and a new execution-mode section describing subagent handoff and the single-pass fallback.
 
 ## v0.2
-- Rewrote the entire skill in academic English (was Italian).
+- Rewrote the entire skill in academic English.
 
 ## v0.1
-- Initial version: six figures (Skeptic, Optimist, PI, Outsider, Methodologist, Grant Panel), ground rules against sycophancy and fabrication, preliminary reading step, per-figure opinion format with severity-tagged findings, and coordinator synthesis (table, convergences/divergences, priorities, solid points, overall assessment).
+- Initial version: six figures (Skeptic, Optimist, PI, Outsider, Methodologist, Grant Panel), ground rules against sycophancy and fabrication, preliminary reading, structured opinion format, and coordinator synthesis.
