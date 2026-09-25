@@ -13,6 +13,8 @@ The skill evaluates a research excerpt, identifies likely weaknesses and strengt
 
 This repository contains the skill prompt itself and the project documentation. The focus is on usability, transparency, and clear installation guidance for Claude users.
 
+This project was developed with the contribution of AI-assisted tooling and iteration, and it is intended to support human academic judgment rather than replace it.
+
 ## What it does
 
 1. Reads the excerpt and provides a short preliminary reading: assumed field, likely venue or aim, main claims, and limitations of the excerpt.
@@ -118,4 +120,4 @@ This project is released under the MIT License. See [`LICENSE`](LICENSE).
 
 ## Acknowledgements
 
-This project was created as a practical academic review aid and iteratively refined with Claude-assisted prompting. It is intended to support critical thinking and self-review, not to replace scholarly judgement.
+This project was created as a practical academic review aid and iteratively refined with AI-assisted prompting and review. The work reflects a combination of human direction and AI contribution, and it is intended to support critical thinking and self-review rather than replace scholarly judgement.
