@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.6
+- Clarified that the six figures are reviewer perspectives, with genuine independence available only in subagent mode.
+- Added a glossary explanation for subagents and Claude Code's `Task` tool.
+- Added a rationale explaining the value of the council structure beyond a general multi-perspective prompt.
+- Added an explicit evaluation-status section stating that no systematic benchmark or published real-text example is included yet.
+- Added a roadmap for worked examples, mode comparisons, evaluation data, and optional figures.
+- Clarified that severity counts are descriptive within each figure and are not a cross-figure quantitative score.
+- Kept the underlying skill prompt (`SKILL.md`) unchanged.
+
 ## v0.5
 - Improved repository documentation and installation guidance.
 - Clarified the purpose of the skill, its limitations, and the difference between a structured review aid and real peer review.
