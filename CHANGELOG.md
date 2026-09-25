@@ -1,5 +1,6 @@
 # Changelog
-
+## v0.6.2
+- Fixed and updated the skill.
 ## v0.6.1
 - Fixed and completed `CITATION.cff` metadata, including the correct CFF schema version, project version, repository URL, abstract, keywords, and author ORCID.
 - Documented the patch release as a metadata and maintenance release.
