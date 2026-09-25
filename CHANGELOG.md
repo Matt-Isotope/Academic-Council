@@ -3,7 +3,8 @@
 ## v0.5
 - Improved repository documentation and installation guidance.
 - Clarified the purpose of the skill, its limitations, and the difference between a structured review aid and real peer review.
-- Added contribution guidance and a more polished project structure description.
+- Added contribution guidance and a polished project structure description.
+- Explicitly acknowledged AI-assisted development and iteration in the project documentation.
 - Kept the underlying skill prompt (`SKILL.md`) unchanged, as requested.
 
 ## v0.4
