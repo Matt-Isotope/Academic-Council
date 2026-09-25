@@ -1,9 +1,24 @@
-cff-version: v0.6.0
-message: "If you use this software, please cite it as below."
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Academic Council"
+abstract: >-
+  A Claude skill that simulates an academic council of six reviewer roles
+  to stress-test a research excerpt and produce a structured,
+  multi-perspective assessment.
+version: 0.6.1
+date-released: 2026-09-25
+type: software
+license: MIT
+repository-code: "https://github.com/Matt-Isotope/Academic-Council"
+url: "https://github.com/Matt-Isotope/Academic-Council"
 authors:
-- family-names: Giaccari
-  given-names: Matteo
-orcid: https://orcid.org/0000-0001-5856-3242
-title:Matt-Isotope/Academic-Council: Academic-Council v0.6.0
-version: v0.6.0
-date-released: 2026-09-23
+  - family-names: Giaccari
+    given-names: Matteo
+    orcid: "https://orcid.org/0000-0001-5856-3242"
+keywords:
+  - claude
+  - artificial-intelligence
+  - academic-review
+  - research-feedback
+  - prompt-engineering
+  - large-language-models
