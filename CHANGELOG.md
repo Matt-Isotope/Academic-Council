@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.6.1
+- Fixed and completed `CITATION.cff` metadata, including the correct CFF schema version, project version, repository URL, abstract, keywords, and author ORCID.
+- Documented the patch release as a metadata and maintenance release.
+- The core skill workflow remains unchanged in this patch release.
+
 ## v0.6
 - Clarified that the six figures are reviewer perspectives, with genuine independence available only in subagent mode.
 - Added a glossary explanation for subagents and Claude Code's `Task` tool.
@@ -7,7 +12,7 @@
 - Added an explicit evaluation-status section stating that no systematic benchmark or published real-text example is included yet.
 - Added a roadmap for worked examples, mode comparisons, evaluation data, and optional figures.
 - Clarified that severity counts are descriptive within each figure and are not a cross-figure quantitative score.
-- Kept the underlying skill prompt (`SKILL.md`) unchanged.
+- Added a demonstration example showing how the skill behaves in single-pass mode without Claude Code.
 
 ## v0.5
 - Improved repository documentation and installation guidance.
