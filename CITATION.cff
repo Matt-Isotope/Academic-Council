@@ -1,11 +1,11 @@
-cff-version: 1.2.0
+cff-version: 0.6.2
 message: "If you use this software, please cite it using the metadata below."
 title: "Academic Council"
 abstract: >-
   A Claude skill that simulates an academic council of six reviewer roles
   to stress-test a research excerpt and produce a structured,
   multi-perspective assessment.
-version: 0.6.1
+version: 0.6.2
 date-released: 2026-09-25
 type: software
 license: MIT
